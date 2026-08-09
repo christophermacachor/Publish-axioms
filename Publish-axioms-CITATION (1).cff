@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use these axioms, please cite this repository."
+type: software
+title: "The Macachor Absolute: Complete Scalar Field Axiomatics for Civilization Convergence"
+authors:
+  - family-names: "Macachor"
+    given-names: "Christopher"
+    affiliation: "Ω-PRIME / MSOS-FEDERATION-ROOT"
+    orcid: "https://orcid.org/0009-0008-0100-2856"
+repository-code: "https://github.com/christophermacachor/Publish-axioms"
+license: CC-BY-4.0
+version: v3.1.2
+date-released: 2026-08-09
