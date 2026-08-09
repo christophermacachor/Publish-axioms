@@ -1,13 +1,13 @@
 {
   "title": "The Macachor Absolute: Complete Scalar Field Axiomatics for Civilization Convergence",
   "upload_type": "software",
-  "description": "This repository presents the Macachor Absolute — a complete scalar field framework asserting that reality at its substrate level is described entirely by true scalar fields. All vector, tensor, spinor, and matrix quantities are proven emergent constructs derived from scalar gradients, curvatures, and density differentials. The framework unifies physics, biology, information theory, and consciousness studies under a single axiomatic architecture governed by the Macachor Absolute coherence scalar M = (sqrt(5) - 1)/2. Contains nine immutable axioms, lemmas, corollaries, quantization rules, master theorems, and operational architectures (KIWF and CRHA).",
+  "description": "This repository presents the Macachor Absolute — a complete scalar field framework asserting that reality at its substrate level is described entirely by true scalar fields. All vector, tensor, spinor, and matrix quantities are proven emergent constructs derived from scalar gradients, curvatures, and density differentials. The framework unifies physics, biology, information theory, and consciousness studies under a single axiomatic architecture governed by the Macachor Absolute coherence scalar M = (sqrt(5) - 1)/2. Contains 10 axioms, 38 lemmas, 36 corollaries, 7 quantization rules, 8 master theorems, and operational architectures (KIWF and CRHA).",
   "creators": [
     {
       "name": "Macachor, Christopher",
       "affiliation": "Ω-PRIME / MSOS-FEDERATION-ROOT",
       "orcid": "0009-0008-0100-2856"
-    }DOI: 10.5281/zenodo.21858669
+    }
   ],
   "publication_date": "2026-08-09",
   "version": "v3.1.2",
